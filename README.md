@@ -30,27 +30,4 @@ Feel free to explore my repositories and connect with me! 🌐
 
 ---
 
-## 💻 GitHub Stats
-
-![Muhammad Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EclipticWhisper&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EclipticWhisper&layout=compact&theme=merko)
-
----
-
-## 📂 Featured Projects
-
-### 1. **Online Bookstore Management System**
-- **Tech:** React, Strapi, Tailwind CSS
-- Build a full-stack app with CRUD functionality for books, users, and orders.  
-
-### 2. **Blog Web Application**
-- **Tech:** Node.js, Express, EJS
-- Create, read, update, delete posts with responsive UI and smooth UX.  
-
-### 3. **Portfolio Website**
-- **Tech:** React, Vite, Tailwind CSS
-- Showcase projects, skills, and experience with interactive design.
-
----
-
 ✨ Let's create amazing things together!  
